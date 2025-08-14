@@ -115,7 +115,7 @@ I'm a 19-year-old passionate **Full Stack Developer** and **BCA 4th Semester** s
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/shishir thapa" target="_blank">
+  <a href="https://www.linkedin.com/in/shishir-thapa-68635227b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://fb.com/shishir thapa" target="_blank">
